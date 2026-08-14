@@ -52,3 +52,11 @@ The dataset contains machine operating conditions and machine failure informatio
 ```text
 Machine failure
 ```
+
+---
+
+## 📸 Application Screenshots
+
+### 🖥️ Streamlit Dashboard
+
+![Predictive Maintenance Dashboard](screenshots/dashboard.png)
