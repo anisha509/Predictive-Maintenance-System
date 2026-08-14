@@ -1,5 +1,9 @@
 # 🔧 Predictive Maintenance System
 
+## 🌐 Live Application
+
+🚀 **[Click here to try the Predictive Maintenance System](https://predictive-maintenance-system-x5ykhcyr4ykywu2rysapgh.streamlit.app/)**
+
 ## 📌 Project Overview
 
 Predictive Maintenance is a Machine Learning-based approach used to predict whether an industrial machine is likely to experience a failure based on its operating conditions.
